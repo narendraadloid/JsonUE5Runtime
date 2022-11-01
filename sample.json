@@ -1,8 +1,8 @@
 {
   "array": [
-    1,
-    2,
-    3
+    "first": 11,
+    "second":23,
+    "third":45
   ],
   "boolean": true,
   "color": "gold",
